@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://newsroom.eclipse.org/">
+  <channel>
+    <title>Eclipse Announcements</title>
+    <link>https://newsroom.eclipse.org/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Now Available: Eclipse IDE 2024-09</title>
+  <link>https://newsroom.eclipse.org/news/announcements/now-available-eclipse-ide-2024-09</link>
+  <description>
+&lt;span&gt;Now Available: Eclipse IDE 2024-09&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-09-11T10:11:18-04:00" title="Wednesday, September 11, 2024 - 10:11"&gt;Wed, 2024-09-11 10:11&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p&gt;Download the latest version of the leading open source platform for developers, featuring improved plug-in development tooling and Java development tooling.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-news-url field--type-link field--label-above"&gt;
+    &lt;div class="field--label"&gt;URL&lt;/div&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://eclipseide.org/"&gt;https://eclipseide.org/&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field--label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/ide" hreflang="en"&gt;IDE&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/eclipse-ide" hreflang="en"&gt;Eclipse IDE&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Wed, 11 Sep 2024 14:11:18 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">40845 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>OCX 2024: Early Bird Pricing Ends Soon!</title>
+  <link>https://newsroom.eclipse.org/news/announcements/ocx-2024-early-bird-pricing-ends-soon</link>
+  <description>
+&lt;span&gt;OCX 2024: Early Bird Pricing Ends Soon!&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-09-11T08:54:40-04:00" title="Wednesday, September 11, 2024 - 08:54"&gt;Wed, 2024-09-11 08:54&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p&gt;Time is running out to save on your registration for Open Community Experience! Register by 23 September to join our flagship developer conference in Mainz, Germany.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-news-url field--type-link field--label-above"&gt;
+    &lt;div class="field--label"&gt;URL&lt;/div&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://www.ocxconf.org/event/778b82cc-6834-48a4-a58e-f883c5a7b8c9/websitePage:6650e052-a407-44ce-a754-b31ffba18333"&gt;https://www.ocxconf.org/event/778b82cc-6834-48a4-a58e-f883c5a7b8c9/websitePage:…&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Wed, 11 Sep 2024 12:54:40 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">40848 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>Eclipse Foundation Releases Landmark Report on Open Source Software in Automotive Design</title>
+  <link>https://newsroom.eclipse.org/news/announcements/eclipse-foundation-releases-landmark-report-open-source-software-automotive</link>
+  <description>
+&lt;span&gt;Eclipse Foundation Releases Landmark Report on Open Source Software in Automotive Design&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-09-10T07:00:00-04:00" title="Tuesday, September 10, 2024 - 07:00"&gt;Tue, 2024-09-10 07:00&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;BRUSSELS – 10 September 2024 –&amp;nbsp;&lt;/strong&gt;The Eclipse Foundation, one of the world’s largest open source foundations, has released the industry’s first research report on the use of open source software (OSS) in the automotive industry. Titled&amp;nbsp;&lt;a href="https://outreach.eclipse.foundation/auto-sdv-survey-open-innovation" rel="nofollow"&gt;&lt;u&gt;“Driving Innovation &amp;amp; Building Safer Cars with Open Source Software,”&lt;/u&gt;&lt;/a&gt; this comprehensive report offers key insights into how automotive decision-makers and software professionals are leveraging OSS to transform vehicle design and production.&lt;/p&gt;
+&lt;p dir="ltr"&gt;“Open source software is playing an increasingly vital role in the development of software-defined vehicles,” said Mike Milinkovich, executive director for the Eclipse Foundation. “This is a significant milestone for open source considering the industry’s rigorous standards for safety, security, and reliability. The automotive industry’s embrace of this model is a testament to the growing maturity of open source.”&lt;/p&gt;
+&lt;p dir="ltr"&gt;Commissioned by the Eclipse Foundation’s&amp;nbsp;&lt;a href="https://sdv.eclipse.org/" rel="nofollow"&gt;&lt;u&gt;Software Defined Vehicle (SDV) Working Group&lt;/u&gt;&lt;/a&gt;, the study surveyed 300 automotive developers and business leaders from leading OEMS and Tier-1 suppliers. The findings underscore the critical role of OSS in driving flexibility, innovation, and efficiency within the industry.&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;The report highlights a number of key trends relevant to automotive technology&amp;nbsp; professionals:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Significant Innovation Gains&lt;/strong&gt;: A majority of companies expect to see more than a 10% increase in innovation by leveraging open source technologies and collaboration. Over 20% anticipate a 20-30% boost.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Widespread Support&lt;/strong&gt;: Almost all (98%) decision-makers and software professionals surveyed recognize the substantial value of software-defined vehicle technologies.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Cost Savings and Operational Efficiency&lt;/strong&gt;: A majority of respondents reported that open source software in SDVs has helped or will help reduce costs and drive down operational expenditures.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Enhanced Flexibility and Scalability&lt;/strong&gt;: 95% of professionals expect OSS to enhance flexibility and scalability in SDVs, improving their ability to quickly capitalise on business opportunities, reduce costs, shorten time-to-market, and gain a competitive edge.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Top Decision-Maker Priorities&lt;/strong&gt;: OSS is valued for improved performance (31%), enhanced security (27%), and customizable solutions (27%).&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Developer Priorities&lt;/strong&gt;: Ease of use (29%), enhanced security (25%), customizable solutions (22%), and the use of a common platform (21%) are the top reasons developers prioritise OSS.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;In addition to presenting key findings, the report also provides recommendations for developers, business leaders, and policy makers. The “Driving Innovation &amp;amp; Building Safer Cars with Open Source Software” report is an essential resource for automotive technology leaders and business decision-makers. It is the first of three reports. Stay tuned for these upcoming in-depth reports:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Report 2: The Business Value of Open Source Software in the Automotive Industry&lt;/strong&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Report 3: Challenges Facing Open Source Software in the Automotive Ecosystem&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;Join the Eclipse SDV Working Group&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Explore opportunities to contribute to the global hub for software-defined vehicle innovation and collaboration. Our diverse membership of industry leaders is driving real-world innovation that is shaping the future of the automotive industry. We provide an inclusive platform where companies of all sizes can engage and contribute on equal footing. Find more details about joining us&amp;nbsp;&lt;a href="https://sdv.eclipse.org/membership/" rel="nofollow"&gt;&lt;u&gt;here&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Join us at the Open Community for Automotive conference, part of the&amp;nbsp;&lt;a href="https://www.ocxconf.org/event/2024/summary" rel="nofollow"&gt;&lt;u&gt;Open Community Experience (OCX)&lt;/u&gt;&lt;/a&gt;, from 22 to 24 October 2024 in Mainz, Germany, to learn more about the Eclipse SDV Working Group’s initiatives. Visit the OCX website for details on sponsorship and participation.&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;About Eclipse Software Defined Vehicle&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Eclipse Software Defined Vehicle (SDV), a working group within the Eclipse Foundation, supports the open source development of cutting-edge automotive technologies that power the programmable vehicles of the future where software defines features, functionality, and operations. With over 50 members, including leading automotive manufacturers, global cloud providers, technology innovators, and key supply chain partners, the initiative has strong industry backing. The working group's mission is to provide a collaborative forum for developing and promoting open source solutions tailored to the global automotive industry. Adopting a “code first” approach, Eclipse SDV focuses on building the industry's first open source software stacks and associated tools that will support the core functionalities of next-generation vehicles.&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;About the Eclipse Foundation&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;The Eclipse Foundation provides our global community of individuals and organisations with a business-friendly environment for open source software collaboration and innovation. We host the Eclipse IDE, Adoptium, Software Defined Vehicle, Jakarta EE, and over 415 open source projects, including runtimes, tools, specifications, and frameworks for cloud and edge applications, IoT, AI, automotive, systems engineering, open processor designs, and many others. Headquartered in Brussels, Belgium, the Eclipse Foundation is an international non-profit association supported by over 360 members. Visit us at this year’s&amp;nbsp;&lt;a href="http://www.ocxconf.org/2024" rel="nofollow"&gt;&lt;u&gt;Open Community Experience (OCX)&lt;/u&gt;&lt;/a&gt; conference on 22-24 October 2024 in Mainz, Germany. To learn more, follow us on social media&amp;nbsp;&lt;a href="https://twitter.com/EclipseFdn" rel="nofollow"&gt;&lt;u&gt;@EclipseFdn&lt;/u&gt;&lt;/a&gt;,&amp;nbsp;&lt;a href="https://www.linkedin.com/company/34093/" rel="nofollow"&gt;&lt;u&gt;LinkedIn&lt;/u&gt;&lt;/a&gt;, or visit&amp;nbsp;&lt;a href="http://eclipse.org" rel="nofollow"&gt;&lt;u&gt;eclipse.org&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Third-party trademarks mentioned are the property of their respective owners.&lt;/p&gt;
+&lt;p class="text-align-center" dir="ltr"&gt;###&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;Media contacts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;Schwartz Public Relations for the Eclipse Foundation, AISBL (Germany)&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Gloria Huppert/Julia Rauch&lt;/p&gt;
+&lt;p dir="ltr"&gt;Sendlinger Straße 42A&lt;/p&gt;
+&lt;p dir="ltr"&gt;80331 Munich&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:EclipseFoundation@schwartzpr.de" rel="nofollow"&gt;EclipseFoundation@schwartzpr.de&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;+49 (89) 211 871 -70/-43&lt;/p&gt;
+&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;Nichols Communications for the Eclipse Foundation, AISBL&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Jay Nichols&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:jay@nicholscomm.com" rel="nofollow"&gt;&lt;u&gt;jay@nicholscomm.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;+1 408-772-1551&lt;/p&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Tue, 10 Sep 2024 11:00:00 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">40827 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>Join the OCX Challenge 2024 and Win Amazing Prizes</title>
+  <link>https://newsroom.eclipse.org/news/announcements/join-ocx-challenge-2024-and-win-amazing-prizes</link>
+  <description>
+&lt;span&gt;Join the OCX Challenge 2024 and Win Amazing Prizes&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Natalia Loungou&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-08-14T09:26:09-04:00" title="Wednesday, August 14, 2024 - 09:26"&gt;Wed, 2024-08-14 09:26&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p dir="ltr"&gt;Are you excited about the Open Community Experience? The OCX Challenge 2024 is here! Share your excitement and get a chance to win amazing OCX 2024 prizes!&amp;nbsp;&lt;/p&gt;
+&lt;h2 dir="ltr"&gt;How to Participate?&lt;/h2&gt;
+&lt;p dir="ltr"&gt;Taking part in the OCX Challenge 2024 is simple and fun. Here's what you need to do:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Follow Us:&lt;/strong&gt; Follow&amp;nbsp;&lt;a href="https://x.com/EclipseFdn" rel="nofollow"&gt;&lt;u&gt;@EclipseFdn&lt;/u&gt;&lt;/a&gt; and&amp;nbsp;&lt;a href="https://x.com/ocxconference" rel="nofollow"&gt;&lt;u&gt;@ocxconference&lt;/u&gt;&lt;/a&gt; on X and/or&amp;nbsp;&lt;a href="https://www.linkedin.com/company/eclipse-foundation/" rel="nofollow"&gt;&lt;u&gt;@Eclipse Foundation&lt;/u&gt;&lt;/a&gt; and&amp;nbsp;&lt;a href="https://www.linkedin.com/showcase/ocx-conference/" rel="nofollow"&gt;&lt;u&gt;@OCX Conference&lt;/u&gt;&lt;/a&gt; on LinkedIn.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Tell us why you’re excited about OCX tagging your OCX buddy.&amp;nbsp;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Share:&amp;nbsp;&lt;/strong&gt;Repost on your social media for an extra chance to win.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p dir="ltr"&gt;You can also find the guidelines in our Eclipse Foundation&amp;nbsp;&lt;a href="https://x.com/EclipseFdn" rel="nofollow"&gt;&lt;u&gt;X&lt;/u&gt;&lt;/a&gt; and&amp;nbsp;&lt;a href="https://www.linkedin.com/company/eclipse-foundation/" rel="nofollow"&gt;&lt;u&gt;LinkedIn&lt;/u&gt;&lt;/a&gt; accounts.&amp;nbsp;&lt;/p&gt;
+&lt;h2 dir="ltr"&gt;Contest Timeline&lt;/h2&gt;
+&lt;p dir="ltr"&gt;The challenge kicks off on Monday,&amp;nbsp;14 August 2024, and runs until Monday, 23 September 2024. Winners will be announced on 24 September 2024 on the Eclipse Foundation’s X and LinkedIn accounts and will be notified via direct message.&lt;/p&gt;
+&lt;h2 dir="ltr"&gt;Exciting Prizes Await&lt;/h2&gt;
+&lt;p dir="ltr"&gt;Winners will receive designated prizes or official OCX 2024 swag, distributed at the conference venue. Winners will be chosen through a random drawing.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Note that prizes do not include OCX passes, accommodation, transportation, or any costs associated with attending the OCX Conference. For more information, please check the&amp;nbsp;&lt;a href="https://www.ocxconf.org/event/778b82cc-6834-48a4-a58e-f883c5a7b8c9/websitePage:37fdbcbe-81a6-4ce9-8d3b-2c20d61de241" rel="nofollow"&gt;&lt;u&gt;Official Rules&lt;/u&gt;&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+&lt;h2 dir="ltr"&gt;Good Luck and See You in Mainz!&lt;/h2&gt;
+&lt;p dir="ltr"&gt;Don’t miss out on this amazing opportunity to be part of the OCX 2024 community and win amazing prizes. Don’t forget to&amp;nbsp;&lt;a href="https://www.ocxconf.org/event/778b82cc-6834-48a4-a58e-f883c5a7b8c9/websitePage:b6616a78-93b3-4867-a4cd-e490a54027e3" rel="nofollow"&gt;&lt;strong&gt;&lt;u&gt;register for OCX 2024&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt; by 23 September 2024 to participate in this challenge. See you in Mainz!&lt;/p&gt;
+&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-news-image field--type-image field--label-above"&gt;
+    &lt;div class="field--label"&gt;Image&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;  &lt;img loading="lazy" src="https://newsroom.eclipse.org/sites/default/files/news/OCXChallenge%20Banner_0.png" width="1200" height="255" alt class="img-responsive"&gt;
+
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Wed, 14 Aug 2024 13:26:09 +0000</pubDate>
+    <dc:creator>Natalia Loungou</dc:creator>
+    <guid isPermaLink="false">40740 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>Strengthening Open Source: Latest Updates from the Open Regulatory Compliance Working Group</title>
+  <link>https://newsroom.eclipse.org/news/announcements/strengthening-open-source-latest-updates-open-regulatory-compliance-working</link>
+  <description>
+&lt;span&gt;Strengthening Open Source: Latest Updates from the Open Regulatory Compliance Working Group&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-08-06T11:34:38-04:00" title="Tuesday, August 6, 2024 - 11:34"&gt;Tue, 2024-08-06 11:34&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p&gt;The Open Regulatory Compliance Working Group is bridging a critical gap between regulatory authorities and the open source ecosystem. Read Mike Milinkovich's blog post on the progress of the new working group.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-news-url field--type-link field--label-above"&gt;
+    &lt;div class="field--label"&gt;URL&lt;/div&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://blogs.eclipse.org/post/mike-milinkovich/strengthening-open-source-latest-updates-open-regulatory-compliance-working"&gt;https://blogs.eclipse.org/post/mike-milinkovich/strengthening-open-source-lates…&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 06 Aug 2024 15:34:38 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">40704 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>The Eclipse Foundation Announces Agenda and Keynote Speakers for Open Community Experience (OCX 2024), Europe’s Premier Event for Open Source Innovation</title>
+  <link>https://newsroom.eclipse.org/news/announcements/eclipse-foundation-announces-agenda-and-keynote-speakers-open-community</link>
+  <description>
+&lt;span&gt;The Eclipse Foundation Announces Agenda and Keynote Speakers for Open Community Experience (OCX 2024), Europe’s Premier Event for Open Source Innovation&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-08-06T07:00:00-04:00" title="Tuesday, August 6, 2024 - 07:00"&gt;Tue, 2024-08-06 07:00&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;BRUSSELS – 6 August 2024 –&amp;nbsp;&lt;/strong&gt;The Eclipse Foundation, one of the world’s largest open source foundations, has unveiled the agenda and speakers for the inaugural&amp;nbsp;&lt;a href="http://www.ocxconf.org/2024" rel="nofollow"&gt;&lt;u&gt;Open Community Experience (OCX 2024)&lt;/u&gt;&lt;/a&gt;. This transformative open source developer conference is set to take place 22-24 October 2024 in Mainz, Germany. With keynote speakers including prominent figures and champions of open source from around the world, the Eclipse Foundation’s new flagship event aims to bring together multiple open source communities to learn, share best practices, and forge collaborations.&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;OCX 2024 will cover a diverse range of topics impacting the open source community through a series of collocated events, including automotive &amp;amp; mobility, embedded IoT &amp;amp; edge, cloud native Java, languages and runtimes, supply chain security, dataspaces, regulatory compliance, and open source software development best practices.&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Discover the full&amp;nbsp;&lt;a href="https://www.ocxconf.org/event/778b82cc-6834-48a4-a58e-f883c5a7b8c9/websitePage:26bc9d91-446a-49e1-9f08-8fcc4680073e?categories=ffeed173-2714-49ad-8366-323c3c549315" rel="nofollow"&gt;&lt;u&gt;OCX 2024 agenda&lt;/u&gt;&lt;/a&gt; featuring more than 100 talks, including the exciting schedules of three collocated events:&amp;nbsp;&lt;a href="https://www.ocxconf.org/event/778b82cc-6834-48a4-a58e-f883c5a7b8c9/websitePage:d99cc86b-2392-44fe-a893-2902195e5f2f" rel="nofollow"&gt;&lt;u&gt;Open Community for Automotive (OCA)&lt;/u&gt;&lt;/a&gt;,&amp;nbsp;&lt;a href="https://www.ocxconf.org/event/778b82cc-6834-48a4-a58e-f883c5a7b8c9/websitePage:77f60b73-336c-43be-827d-8d8fcb1aaf64" rel="nofollow"&gt;&lt;u&gt;Open Community for Java (OCJ)&lt;/u&gt;&lt;/a&gt;, and the popular&amp;nbsp; &lt;a href="https://www.ocxconf.org/event/2024/websitePage:637aabfe-dbad-4826-87c3-355bee0f7c89" rel="nofollow"&gt;&lt;u&gt;EclipseCon&lt;/u&gt;&lt;/a&gt;.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="https://www.ocxconf.org/event/2024/websitePage:6650e052-a407-44ce-a754-b31ffba18333" rel="nofollow"&gt;&lt;u&gt;Registration&amp;nbsp;&lt;/u&gt;&lt;/a&gt;for OCX 2024 is now open! Register by September 23 to take advantage of early bird rates: €725 for Eclipse Foundation members, and&amp;nbsp; €825 for non-Eclipse members. Discounted rates are available for academics, government and hobbyists. Prices increase starting September 24, 2024.&lt;/p&gt;
+&lt;p dir="ltr"&gt;“I’m thrilled with the calibre of speakers we’ve secured for our inaugural OCX 2024 and collocated events. Each of our speakers has had a significant impact on the evolution of open source technology,” said Thabang Mashologu, VP Community &amp;amp; Outreach at the Eclipse Foundation. “Beyond their incredible technical contributions, these practitioners and leaders bring a diverse set of insights into how open source communities are driving innovation and transforming a broad range of industries across the globe.”&lt;/p&gt;
+&lt;p dir="ltr"&gt;OCX 2024 speakers come from around the world to share their unique experiences and insight. Keynote speakers include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Sarah Novotny&lt;/strong&gt; - Ms. Novotny is an open source champion with more than two decades of leading projects such as Kubernetes, OpenTelemetry, NGINX, and MySQL.&amp;nbsp; She has previously led an Open Source Ecosystem team from the Microsoft Azure Office of the CTO, an Open Source Strategy group at Google, and represented both Microsoft and Google on the Linux Foundation Board of Directors.&amp;nbsp;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Ruth Ikegah&lt;/strong&gt; - Ms. Ikegah is an Open Source Program Manager, GitHub Star, public speaker on all things related to open source development. She currently serves as the Program Manager for Open Source Community Africa. Through her advocacy efforts, she has inspired countless individuals to embrace open-source principles and contribute their own unique skill sets to the ever-evolving landscape of technology.&amp;nbsp;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Cédric Dumont&lt;/strong&gt; - Adventurer, best-selling author, extreme athlete, and high-performance consultant, Mr. Dumont is the host of the podcast MIND SET WIN and international speaker on how to best perform under pressure.&amp;nbsp;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Mike Milinkovich&lt;/strong&gt; - Our own executive director since the Eclipse Foundation’s inception in 2004, Mike is a recognised industry expert on all things open source. As an industry leader, Mike has sat on the Boards of the Open Source Initiative (OSI), and the OpenJDK community, as well as the Executive Committee of the Java Community Process (JCP).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;Set in the historic city of Mainz, Germany, near Frankfurt, OCX 2024 will offer an array of tracks covering Eclipse projects and a wide range of topics relevant to open source developers and practitioners. In addition to the main conference tracks, OCX 2024 will also host three multi-day, collocated events, each dedicated to specific communities:&amp;nbsp;&lt;a href="https://www.ocxconf.org/event/778b82cc-6834-48a4-a58e-f883c5a7b8c9/websitePage:d99cc86b-2392-44fe-a893-2902195e5f2f" rel="nofollow"&gt;&lt;u&gt;Open Community for Automotive (OCA)&lt;/u&gt;&lt;/a&gt;, which will focus on topics such as software-defined vehicles, mobility, and safety,&amp;nbsp;&lt;a href="https://www.ocxconf.org/event/778b82cc-6834-48a4-a58e-f883c5a7b8c9/websitePage:77f60b73-336c-43be-827d-8d8fcb1aaf64" rel="nofollow"&gt;&lt;u&gt;Open Community for Java (OCJ)&lt;/u&gt;&lt;/a&gt;, which will cover&amp;nbsp; innovations, updates, and exciting developments in open source Java, and&amp;nbsp;&lt;a href="https://www.ocxconf.org/event/2024/websitePage:637aabfe-dbad-4826-87c3-355bee0f7c89" rel="nofollow"&gt;&lt;u&gt;EclipseCon&lt;/u&gt;&lt;/a&gt;, the Eclipse Foundation’s long-running conference centred on open source developer tools and IDEs.&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;In addition to the collocated three-day events, the program will feature specialised sessions and one day gatherings like the Eclipse Security, Artificial Intelligence, Architecture, and Modelling Conference (&lt;a href="https://www.ocxconf.org/event/778b82cc-6834-48a4-a58e-f883c5a7b8c9/websitePage:a42770e9-b32c-418b-8c08-a86d5c57ca61" rel="nofollow"&gt;&lt;u&gt;eSAAM&lt;/u&gt;&lt;/a&gt;) on 22 October 2024, which will spotlight innovative software and solutions for data spaces.&lt;/p&gt;
+&lt;p dir="ltr"&gt;OCX 2024 offers the ideal opportunity to engage with developers, executives, and evangelists shaping today’s most advanced open technologies. Whether you aim to showcase your own solutions, expand your organisation’s role in the developer ecosystem, or connect with potential partners for new opportunities, OCX 2024 is Europe's premier venue for open source innovation.&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;For more details on OCX 2024 and how you can register, sponsor, and participate, visit&amp;nbsp;&lt;a href="http://www.ocxconf.org/2024" rel="nofollow"&gt;&lt;u&gt;the OCX 2024 website&lt;/u&gt;&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;About the Eclipse Foundation&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;The Eclipse Foundation provides our global community of individuals and organisations with a business-friendly environment for open source software collaboration and innovation. We host the Eclipse IDE, Adoptium, Software Defined Vehicle, Jakarta EE, and over 415 open source projects, including runtimes, tools, specifications, and frameworks for cloud and edge applications, IoT, AI, automotive, systems engineering, open processor designs, and many others. Headquartered in Brussels, Belgium, the Eclipse Foundation is an international non-profit association supported by over 360 members. Visit us at this year’s&amp;nbsp;&lt;a href="http://www.ocxconf.org/2024" rel="nofollow"&gt;&lt;u&gt;Open Community Experience (OCX)&lt;/u&gt;&lt;/a&gt; conference on 22-24 October 2024 in Mainz, Germany. To learn more, follow us on social media&amp;nbsp;&lt;a href="https://twitter.com/EclipseFdn" rel="nofollow"&gt;&lt;u&gt;@EclipseFdn&lt;/u&gt;&lt;/a&gt;,&amp;nbsp;&lt;a href="https://www.linkedin.com/company/34093/" rel="nofollow"&gt;&lt;u&gt;LinkedIn&lt;/u&gt;&lt;/a&gt;, or visit&amp;nbsp;&lt;a href="http://eclipse.org" rel="nofollow"&gt;&lt;u&gt;eclipse.org&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Third-party trademarks mentioned are the property of their respective owners.&lt;/p&gt;
+&lt;p class="text-align-center" dir="ltr"&gt;###&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;Media contacts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;Schwartz Public Relations for the Eclipse Foundation, AISBL (Germany)&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Gloria Huppert/Julia Rauch&lt;/p&gt;
+&lt;p dir="ltr"&gt;Sendlinger Straße 42A&lt;/p&gt;
+&lt;p dir="ltr"&gt;80331 Munich&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:EclipseFoundation@schwartzpr.de" rel="nofollow"&gt;EclipseFoundation@schwartzpr.de&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;+49 (89) 211 871 -70/-43&lt;/p&gt;
+&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;Nichols Communications for the Eclipse Foundation, AISBL&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Jay Nichols&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:jay@nicholscomm.com" rel="nofollow"&gt;&lt;u&gt;jay@nicholscomm.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;+1 408-772-1551&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;514 Media Ltd&amp;nbsp;for the Eclipse Foundation, AISBL (France, Italy, Spain)&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Benoit Simoneau&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:benoit@514-media.com" rel="nofollow"&gt;&lt;u&gt;benoit@514-media.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;M:&amp;nbsp;+44 (0) 7891 920 370&lt;/p&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Tue, 06 Aug 2024 11:00:00 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">40701 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>CrowdStrike Windows Outage Notice</title>
+  <link>https://newsroom.eclipse.org/news/announcements/crowdstrike-windows-outage-notice</link>
+  <description>
+&lt;span&gt;CrowdStrike Windows Outage Notice&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-07-19T09:02:20-04:00" title="Friday, July 19, 2024 - 09:02"&gt;Fri, 2024-07-19 09:02&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p&gt;You might have heard about the global IT crisis caused by a recent security update, which is currently impacting Windows PCs worldwide.&lt;/p&gt;
+&lt;p&gt;While the systems of the Eclipse Foundation have not been affected, this issue may impact the registration process for the Open Community Experience (OCX) conference.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;If you encounter any issues while registering for OCX, please do not hesitate to contact us at &lt;a href="mailto:registration@ocxconf.org" rel="nofollow"&gt;registration@ocxconf.org&lt;/a&gt;. We understand that the deadline for early bird registration ends tomorrow, 20 July, and we will do our best to accommodate your request so that you can benefit from the discounted rates.&lt;/p&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Fri, 19 Jul 2024 13:02:20 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">40623 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>Eclipse Foundation Releases the Industry’s First Survey of Open Source Developers and Policymakers from the Global South</title>
+  <link>https://newsroom.eclipse.org/news/announcements/eclipse-foundation-releases-industry%E2%80%99s-first-survey-open-source-developers-and</link>
+  <description>
+&lt;span&gt;Eclipse Foundation Releases the Industry’s First Survey of Open Source Developers and Policymakers from the Global South&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-07-02T06:45:00-04:00" title="Tuesday, July 2, 2024 - 06:45"&gt;Tue, 2024-07-02 06:45&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;BRUSSELS – 2 July 2024 –&amp;nbsp;&lt;/strong&gt;The Eclipse Foundation, one of the world’s largest open source foundations, has announced the release of its latest community-supported strategic research report, “State of Open Source in the Global South.”&amp;nbsp;&lt;a href="https://outreach.eclipse.foundation/open-source-global-south-developers" rel="nofollow"&gt;&lt;u&gt;This first-of-its-kind survey&lt;/u&gt;&lt;/a&gt; focuses on underserved and underreported developer communities to understand their use of open source technologies and the impact on local economies. The regions, collectively referred to as the Global South as defined by the United Nations Conference on Trade and Development (UNCTAD), include Africa, Latin America and the Caribbean, Asia (excluding Israel, Japan, and South Korea), and Oceania (excluding Australia and New Zealand). These regions are increasingly participating in the global open source community and contributing to open source projects around the world.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;“Our research indicates there is already serious momentum for open source in the Global South, as well as the potential for significantly more growth,” said Thabang Mashologu, vice president, Community and Outreach at the Eclipse Foundation. "Developers in these regions are not only creating practical solutions to meet local needs, but are also becoming increasingly influential contributors to global open source projects, enriching the overall ecosystem with their unique perspectives. This report provides strong evidence that the next wave of tech innovation may very well emerge from the Global South."&lt;/p&gt;
+&lt;p dir="ltr"&gt;Industry research, such as the&amp;nbsp;&lt;a href="https://github.blog/2023-11-08-the-state-of-open-source-and-ai/" rel="nofollow"&gt;&lt;u&gt;GitHub Octoverse Report 2023&lt;/u&gt;&lt;/a&gt;, has previously identified tremendous growth and potential across many of the Global South developer communities.&amp;nbsp; This survey, conducted from May 14 to May 28, 2024, among 423 software developers and policymakers, aligns with these findings.&lt;/p&gt;
+&lt;p dir="ltr"&gt;The purpose of this report was multifaceted: to explore the attitudes and opinions of developers in the Global South and to amplify the voices of these vital and influential communities contributing to global innovation. Our findings highlight the substantial potential and impact of developers in the Global South, both within their countries, as well as on the global open source ecosystem. Key findings from the survey include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Active Contributions and Leadership:&amp;nbsp;&lt;/strong&gt;37% of respondents are contributors, 28% are maintainers, and 22% are creators of open source projects. 77% of respondents use OSS, indicating a strong foundation for further engagement and innovation. The top industries represented among respondents are Information Technology (54%), Financial Services (9%), Telecommunications (7%), Healthcare (5%), and Wholesale &amp;amp; Retail (4%).&amp;nbsp;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;OSS Adoption Drivers:&amp;nbsp;&lt;/strong&gt;Increasing OSS use in the Global South involves informing, empowering, and supporting developers. Key factors for driving adoption include implementing security best practices (63%), providing opportunities for career growth (61%), delivering good documentation (61%), and utilising open source licences (60%).&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Progress and Opportunity:&amp;nbsp;&lt;/strong&gt;OSS drives local benefits and opportunities in key areas, such as improved educational opportunities (64%), the development of a stronger software developer workforce (62%), and increased entrepreneurship and innovation (56%).&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Positive Societal Impact:&amp;nbsp;&lt;/strong&gt;More mature OSS communities report greater positive impacts far beyond just software development, including economic growth, innovation, and enabling women to build skills and careers.&amp;nbsp;Respondents identified the top societal impacts of open source software as improving innovation (61%), enhancing economic growth and work opportunities (55%), and increasing access to quality education (50%).&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Economic Growth Potential:&amp;nbsp;&lt;/strong&gt;59% of developers strongly agree that OSS will play a significant role in their country’s economic growth over the next 10 years.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;UN Involvement in DPGs:&lt;/strong&gt; Policymakers we spoke to are aware of the United Nations’ involvement in Digital Public Goods (DPGs) and see the UN as a facilitator for collaboration and promoting OSS projects that fit the DPG definition. They advocate for partnerships with OSS foundations to govern and promote DPG-qualifying projects.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;The impact of OSS extends beyond the tech sector. It democratises access to cutting-edge technology, enables skill development, fosters economic growth, and reduces gender inequality. However, to fully unlock this potential, concerted efforts are needed. Governments, donors, NGOs, open source groups, foundations, and local and global entrepreneurs must collaborate to provide infrastructure, mentorship, training, funding, and job opportunities. These efforts are crucial to nurture and support the immense talent present in the Global South.&lt;/p&gt;
+&lt;h2&gt;Recommendations&lt;/h2&gt;
+&lt;p dir="ltr"&gt;The survey contains recommendations for key stakeholders to help maximise the potential of open source development in the Global South:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;For Developers:&amp;nbsp;&lt;/strong&gt;Actively engage with the open source community to build your skills and network. Leverage the numerous opportunities for collaboration and learning for career growth and innovation.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;For Policymakers:&lt;/strong&gt; Support OSS by providing infrastructure and resources. Collaborate with community groups and OSS foundations to promote sustainable development goals and innovation in your region.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;For Business Leaders&lt;/strong&gt;: Offer grants, sponsorships, and funding for OSS projects and foundations relevant to your business. Organise local workshops, hackathons, and meetups to foster collaboration. Identify potential employees based on their contributions to OSS projects.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;The survey includes respondents from Argentina, Brazil, Chile, Colombia, Egypt, Ethiopia, Gambia, India, Indonesia, Kenya, Lesotho, Malawi, Morocco, Nigeria, the Philippines, Singapore, South Africa, Thailand, and Vietnam. The research was fielded in English, Spanish, and Portuguese. The survey was conducted with the support of ClearPath Strategies, a global research and consulting firm, and fielded in partnership with Open Source Community Africa and FOSSASIA.&lt;/p&gt;
+&lt;p dir="ltr"&gt;The survey data provide further insights into developer choices for OSS technologies, preferred programming languages, and the challenges they face. In the spirit of sharing and advancing learning, the report will be distributed freely under the Creative Commons Attribution-ShareAlike 4.0 International Public License. The entire report&amp;nbsp;&lt;a href="https://outreach.eclipse.foundation/open-source-global-south-developers" rel="nofollow"&gt;&lt;u&gt;can be downloaded here&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Join Us at OSPOs for Good (July 9 &amp;amp; 10)&lt;/h2&gt;
+&lt;p dir="ltr"&gt;The Eclipse Foundation will present these findings and discuss how OSS can be leveraged to drive sustainable development at the&amp;nbsp;&lt;a href="https://www.un.org/techenvoy/content/ospos-good-2024" rel="nofollow"&gt;&lt;u&gt;OSPOs for Good conference&lt;/u&gt;&lt;/a&gt; at UN headquarters in New York City on July 9 &amp;amp; 10, where our executive director Mike Milinkovich will be a speaker.&lt;/p&gt;
+&lt;h2&gt;Open Source for Policymaking Workshop (July 8)&lt;/h2&gt;
+&lt;p dir="ltr"&gt;The Eclipse Foundation, in partnership with Open Forum Europe and the Digital Public Goods Alliance, will host a workshop in New York City titled “Government Spotlight: Policymaking and Strategy for Building Open Source Ecosystems.” This workshop is specifically designed for mid-level to senior policymakers in governments and international NGOs to share lessons learned and best practices in using open source technologies in public administration. The venue for this event is the historic Great Hall at The Cooper Union for the Advancement of Science and Art, New York City. We are grateful for their generous support.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Learn more at the&amp;nbsp;&lt;a href="https://www.ocxconf.org/event/778b82cc-6834-48a4-a58e-f883c5a7b8c9" rel="nofollow"&gt;&lt;u&gt;Open Community Experience (OCX)&lt;/u&gt;&lt;/a&gt;, a transformative open source developer conference from 22-24 October 2024 in Mainz, Germany. Visit the OCX website for sponsorship and participation details.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;Quotations from Community and Research Partners&lt;/h3&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;Open Source Community Africa&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;"Africa is brimming with talented developers ready to contribute to global innovation. This report highlights their potential and the critical need for support and resources to help them thrive," said Bolaji Ayodeji, Community Manager at Open Source Community Africa.&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;FOSSASIA&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;“Our partnership with the Eclipse Foundation on this survey has further illuminated the incredible contributions of developers in Asia. We look forward to further collaboration to support and empower these communities,” said Hong Phuc Dang, founder of FOSSASIA.&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;Digital Public Goods Alliance&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;“The findings in this report dispel the myth that developing economies lack the capacity to leverage open source technologies, including digital public goods, to give people access to basic services, accelerate the attainment of the SDGs, and spur innovation,” said Lea Gimpel, Director of AI and Country Engagement, at the Digital Public Goods Alliance. “Global majority countries have been at the forefront, showcasing the potential of open source. This report underscores the importance of continuing and growing the support for open-source initiatives globally and rethinking funding narratives from catalytic funding to long-term infrastructure funding.”&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;ClearPath Strategies&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;“This research highlights the incredible dedication and potential within open source developer communities. These developers are poised for significant breakthroughs on their own terms, and with the right support, they can achieve remarkable success,” said John Garrett, Founder and Partner at ClearPath Strategies.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;About the Eclipse Foundation&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;The Eclipse Foundation provides our global community of individuals and organisations with a business-friendly environment for open source software collaboration and innovation. We host the Eclipse IDE, Adoptium, Software Defined Vehicle, Jakarta EE, and over 415 open source projects, including runtimes, tools, specifications, and frameworks for cloud and edge applications, IoT, AI, automotive, systems engineering, open processor designs, and many others. Headquartered in Brussels, Belgium, the Eclipse Foundation is an international non-profit association supported by over 360 members. Visit us at this year’s&amp;nbsp;&lt;a href="http://www.ocxconf.org/2024" rel="nofollow"&gt;&lt;u&gt;Open Community Experience (OCX)&lt;/u&gt;&lt;/a&gt; conference on 22-24 October 2024 in Mainz, Germany. To learn more, follow us on social media&amp;nbsp;&lt;a href="https://twitter.com/EclipseFdn" rel="nofollow"&gt;&lt;u&gt;@EclipseFdn&lt;/u&gt;&lt;/a&gt;,&amp;nbsp;&lt;a href="https://www.linkedin.com/company/34093/" rel="nofollow"&gt;&lt;u&gt;LinkedIn&lt;/u&gt;&lt;/a&gt;, or visit&amp;nbsp;&lt;a href="http://eclipse.org" rel="nofollow"&gt;&lt;u&gt;eclipse.org&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;About ClearPath Strategies&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="https://clearpath-strategies.com/" rel="nofollow"&gt;&lt;u&gt;ClearPath Strategies&lt;/u&gt;&lt;/a&gt;&amp;nbsp;is a boutique research and strategy firm that helps organisations and leaders around the world navigate complexity and make informed decisions. Partnering with clients of all sizes, ClearPath applies its roots in international politics and their campaign thinking to the challenges faced by some of the world's leading organisations, from Airbnb and Uber, to the Eclipse Foundation and Google, to C40 and the Waverely Street Foundation.&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Third-party trademarks mentioned are the property of their respective owners.&lt;/p&gt;
+&lt;p class="text-align-center" dir="ltr"&gt;###&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;Media contacts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;Schwartz Public Relations for the Eclipse Foundation, AISBL (Germany)&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Gloria Huppert/Julia Rauch&lt;/p&gt;
+&lt;p dir="ltr"&gt;Sendlinger Straße 42A&lt;/p&gt;
+&lt;p dir="ltr"&gt;80331 Munich&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:EclipseFoundation@schwartzpr.de" rel="nofollow"&gt;EclipseFoundation@schwartzpr.de&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;+49 (89) 211 871 -70/-43&lt;/p&gt;
+&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;Nichols Communications for the Eclipse Foundation, AISBL&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Jay Nichols&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:jay@nicholscomm.com" rel="nofollow"&gt;&lt;u&gt;jay@nicholscomm.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;+1 408-772-1551&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;514 Media Ltd&amp;nbsp;for the Eclipse Foundation, AISBL (France, Italy, Spain)&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Benoit Simoneau&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:benoit@514-media.com" rel="nofollow"&gt;&lt;u&gt;benoit@514-media.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;M:&amp;nbsp;+44 (0) 7891 920 370&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Tue, 02 Jul 2024 10:45:00 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">40533 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>Eclipse Foundation Introduces Theia IDE to Elevate the Modern Developer Experience</title>
+  <link>https://newsroom.eclipse.org/news/announcements/eclipse-foundation-introduces-theia-ide-elevate-modern-developer-experience</link>
+  <description>
+&lt;span&gt;Eclipse Foundation Introduces Theia IDE to Elevate the Modern Developer Experience&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-06-27T07:00:00-04:00" title="Thursday, June 27, 2024 - 07:00"&gt;Thu, 2024-06-27 07:00&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;BRUSSELS – 27 June 2024 –&amp;nbsp;&lt;/strong&gt;The Eclipse Foundation, one of the world’s largest open source foundations, has announced the release of Eclipse Theia IDE, marking a significant milestone in the evolution of Integrated Development Environments (IDEs). Built on the robust Eclipse Theia platform, a popular choice among tool providers since 2017, Theia IDE provides an exceptional user experience designed to meet the needs of today’s developers. This latest addition to the&amp;nbsp;&lt;a href="https://ecdtools.eclipse.org/" rel="nofollow"&gt;&lt;u&gt;Eclipse Cloud DevTools&lt;/u&gt;&lt;/a&gt; ecosystem offers a modern, extensible coding experience across both desktop and browser environments.&lt;/p&gt;
+&lt;p dir="ltr"&gt;“The release of Theia IDE represents a new milestone in the world of open source development tools,” said Mike Milinkovich, executive director for the Eclipse Foundation. “By combining flexibility, innovation, and openness, Theia IDE empowers developers to fully customise and control their coding environments, ultimately driving greater productivity and creativity. We're excited to see how this tool will shape the future of software development."&lt;/p&gt;
+&lt;h2&gt;Next-Gen Development Tools with a Commitment to Privacy&lt;/h2&gt;
+&lt;p dir="ltr"&gt;Theia IDE is designed to meet the demands of today’s developers, integrating the latest web technologies for seamless cross-platform operation. It supports the Language Server Protocol (LSP), the Debug Adapter Protocol (DAP), and leverages the Monaco Code Editor for a state-of-the-art coding experience. Compatibility with VS Code extensions, accessible via the&amp;nbsp;&lt;a href="https://open-vsx.org/" rel="nofollow"&gt;&lt;u&gt;Open VSX registry&lt;/u&gt;&lt;/a&gt;, ensures a highly customizable and extendable environment.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Choosing Theia IDE means embracing cutting-edge technology combined with unparalleled flexibility and openness. Key features include a customizable toolbar, detachable views, remote development support, and an upcoming collaboration mode, setting Theia IDE apart from other open source tools. Committed to user privacy and against default telemetry, Theia IDE respects user preferences while providing a high-performance coding environment.&lt;/p&gt;
+&lt;h2&gt;Empowering Developers Through Community-Driven Innovation&lt;/h2&gt;
+&lt;p dir="ltr"&gt;At the core of Theia IDE is its vibrant open source community hosted by the Eclipse Foundation. This ensures freedom for commercial use without proprietary constraints and fosters innovation and reliability through contributions from companies like Ericsson, EclipseSource, STMicroelectronics, TypeFox, and more. The community-driven model encourages participation and adaptation according to user needs and feedback.&lt;/p&gt;
+&lt;h2&gt;Contribute to the Future of Software Development&lt;/h2&gt;
+&lt;p dir="ltr"&gt;For developers seeking a modern, extensible, and community-driven IDE, Theia IDE sets new standards. Available for download on major operating systems and deployable in cloud environments, Theia IDE invites developers to explore its robust features and contribute to its continuous evolution.&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Visit the&amp;nbsp;&lt;a href="https://eclipsesource.com/blogs/2024/06/27/introducing-the-theia-ide/" rel="nofollow"&gt;&lt;u&gt;Theia IDE blog post&lt;/u&gt;&lt;/a&gt; to learn more about its features and how to join the growing community.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Learn more at the&amp;nbsp;&lt;a href="https://www.ocxconf.org/event/2024/summary" rel="nofollow"&gt;&lt;u&gt;Open Community Experience (OCX)&lt;/u&gt;&lt;/a&gt;, a transformative open source developer conference taking place from 22 to 24 October 2024 in Mainz, Germany. Visit the OCX website for sponsorship and participation details.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;Quotations from Members of the Eclipse Theia Community&lt;/h3&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;EclipseSource GmbH&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;“We're excited to announce the official release of Theia IDE. With its flexibility and extensibility, the Theia IDE is designed to meet the evolving needs of developers and adopters creating custom tools and IDEs at the same time,” said Jonas Helming, Theia Project Lead and CEO at EclipseSource GmbH. “Together with its commitment to providing a tool that respects user privacy and is free from proprietary constraints, Theia is an important building block for EclipseSource to fulfill our customers' needs with their specialised IDEs and tools.”&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;Typefox GmbH&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;“I'm thrilled to witness the official release of Theia IDE, a testament to the collaborative efforts shaping the future of software development,” said Miro Spönemann, CEO at Typefox GmbH. “Theia's incorporation of cutting-edge features and commitment to openness align perfectly with our ethos at TypeFox. We're proud to be part of this vibrant community driving innovation and look forward to the incredible possibilities ahead.”&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;About the Eclipse Foundation&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;The Eclipse Foundation provides our global community of individuals and organisations with a business-friendly environment for open source software collaboration and innovation. We host the Eclipse IDE, Adoptium, Software Defined Vehicle, Jakarta EE, and over 415 open source projects, including runtimes, tools, specifications, and frameworks for cloud and edge applications, IoT, AI, automotive, systems engineering, open processor designs, and many others. Headquartered in Brussels, Belgium, the Eclipse Foundation is an international non-profit association supported by over 360 members. Visit us at this year’s&amp;nbsp;&lt;a href="http://www.ocxconf.org/2024" rel="nofollow"&gt;&lt;u&gt;Open Community Experience (OCX)&lt;/u&gt;&lt;/a&gt; conference on 22-24 October 2024 in Mainz, Germany. To learn more, follow us on social media&amp;nbsp;&lt;a href="https://twitter.com/EclipseFdn" rel="nofollow"&gt;&lt;u&gt;@EclipseFdn&lt;/u&gt;&lt;/a&gt;,&amp;nbsp;&lt;a href="https://www.linkedin.com/company/34093/" rel="nofollow"&gt;&lt;u&gt;LinkedIn&lt;/u&gt;&lt;/a&gt;, or visit&amp;nbsp;&lt;a href="http://eclipse.org" rel="nofollow"&gt;&lt;u&gt;eclipse.org&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Third-party trademarks mentioned are the property of their respective owners.&lt;/p&gt;
+&lt;p class="text-align-center" dir="ltr"&gt;###&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;Media contacts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;Schwartz Public Relations for the Eclipse Foundation, AISBL (Germany)&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Gloria Huppert/Marita Bäumer&lt;/p&gt;
+&lt;p dir="ltr"&gt;Sendlinger Straße 42A&lt;/p&gt;
+&lt;p dir="ltr"&gt;80331 Munich&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:EclipseFoundation@schwartzpr.de" rel="nofollow"&gt;EclipseFoundation@schwartzpr.de&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;+49 (89) 211 871 -70/ -62&lt;/p&gt;
+&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;Nichols Communications for the Eclipse Foundation, AISBL&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Jay Nichols&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:jay@nicholscomm.com" rel="nofollow"&gt;&lt;u&gt;jay@nicholscomm.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;+1 408-772-1551&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;514 Media Ltd&amp;nbsp;for the Eclipse Foundation, AISBL (France, Italy, Spain)&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Benoit Simoneau&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:benoit@514-media.com" rel="nofollow"&gt;&lt;u&gt;benoit@514-media.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;M:&amp;nbsp;+44 (0) 7891 920 370&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-news-image field--type-image field--label-above"&gt;
+    &lt;div class="field--label"&gt;Image&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;  &lt;img loading="lazy" src="https://newsroom.eclipse.org/sites/default/files/news/PR%20-%20Theia%20IDE.png" width="1024" height="512" alt class="img-responsive"&gt;
+
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field--label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/eclipse-theia" hreflang="en"&gt;Eclipse Theia&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/cloud-dev-tools" hreflang="en"&gt;cloud dev tools&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/ecdtools" hreflang="en"&gt;ecdtools&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/theia-ide" hreflang="en"&gt;theia ide&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Thu, 27 Jun 2024 11:00:00 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">40509 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>Eclipse Cyclone DDS Security Audit Has Been Completed</title>
+  <link>https://newsroom.eclipse.org/news/announcements/eclipse-cyclone-dds-security-audit-has-been-completed</link>
+  <description>
+&lt;span&gt;Eclipse Cyclone DDS Security Audit Has Been Completed&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Marta Rybczynska&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-06-24T09:05:24-04:00" title="Monday, June 24, 2024 - 09:05"&gt;Mon, 2024-06-24 09:05&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p&gt;Findings from the audit have been addressed in the latest versioned source code of Eclipse CycloneDDS, available on GitHub.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-news-url field--type-link field--label-above"&gt;
+    &lt;div class="field--label"&gt;URL&lt;/div&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://blogs.eclipse.org/post/marta-rybczynska/eclipse-cyclonedds-security-audit-has-been-completed"&gt;https://blogs.eclipse.org/post/marta-rybczynska/eclipse-cyclonedds-security-aud…&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Mon, 24 Jun 2024 13:05:24 +0000</pubDate>
+    <dc:creator>Marta Rybczynska</dc:creator>
+    <guid isPermaLink="false">40491 at https://newsroom.eclipse.org</guid>
+    </item>
+
+  </channel>
+</rss>
